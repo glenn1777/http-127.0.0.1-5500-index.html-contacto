@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="icon" href="icon.png">
+    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/d04387d10b.js" crossorigin="anonymous"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Paytone+One&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Che Moreno - Lista 16 </title>
+</head>
+<body>
+    <div id="navbar">
+    <li>
+        <a href="#aboutus">Inicio</a>
+        <br>
+    </li> <li>
+        <a href="#cargosHeader">Cargos</a>
+        <br>
+    </li> <li>
+        <a href="#contacto">Contacto</a>
+        <br>
+    </li> <li>
+        <a href="fechas importantes.html">Fechas importantes</a>
+        
+    </li>
+</div>
+<div id="notnav">
+    <div id="fullTitle">
+        <img src="logo.png" alt="Che Moreno Logo" height= "100px" id="firstLogo" class="logo">
+            <h1 id="titulo"><u>Che</u> <u>Moreno</u> - Lista 16</h1>
+        <img src="logoRev.png" alt="Che Moreno Logo" height= "100px" id="secondLogo" class="logo">
+    </div>
+    <br>
+    <h2><b>¿Qué es el C.E.M.M?</b></h2>
+    <h3> Para lxs que no saben, el C.E.M.M es el Centro de Estudiantes del colegio Mariano Moreno. El CEMM lo representamos todos, ya sea a la hora de participar en una reunión de delegados, en una asamblea, etc. La Comisión Directiva está a cargo de que se realicen todos estos eventos, que básicamente todos los años hay elecciones donde se vota qué  centro de estudiante conduce el C.E.M.M.<br> 
+        Al fin y al cabo somos todos estudiantes, y tenemos que estar juntos porque de eso se trata el centro de estudiantes, de representarnos y de luchar por un mejor colegio, donde no solo sea un espacio para estudiar y aprender, sino también, que sea un espacio donde se tome conciencia social de donde estamos parados.
+        
+        </h3>
+    <br>    
+    <h2><b>¿Quiénes somos?</b></h2>
+
+    <h3>Nosotros somos Che Moreno, una lista que está en busca de un centro , más participativo, en donde cada une pueda participar y aportar desde el lugar que pueda. <br>  
+        También,apostamos a que cada uno pueda tener su propia ideología y que no influya por que todos tenemos que poder participar y militar.
+        
+        
+        </h3>
+
+
+
+    <h1 id="cargosHeader">Cargos</h1>
+    <br>
+    <div id="cargos">
+        <li class="mayor"><b>Presidente: Uriel Prusak 4°4</b></li>
+        <li class="mayor"><b>Vicepresidenta: Josefina Barroso 4°4</b></li>
+        <li class="secretarie"><b>Secretaria TM: Azul Claude 1°1</b> </li>
+        <li class="secretarie"><b>Secretaria TT: Ariana Barretto 2°10</b> </li>
+        <li class="secretarie"><b>Secretarie de Finanzas: Bruno Gomez 3°9</b> </li>
+        <li class="secretarie"><b>Secretario de Prensa: Gabriel Juarez 3°9</b> </li>
+        <li class="secretarie"><b>Secretario de Cultura: Enzo Cano 2°10</b> </li>
+        <li class="secretarie"><b>Secretaria de DDHH: Guadalupe Gonzalez 4°4</b> </li>
+        <li class="secretarie"><b>Secretaria de Asuntos Gremiales: Casandra Lacabe 3°4</b> </li>
+        <li class="suplente"><b>Suplente 1: Sofia Garofalo 4°9</b> </li>
+        <li class="suplente"><b>Suplente 2: Renata Rey 2°8</b> </li>
+        <li class="suplente"><b>Suplente 3: Amanda Montano 2°5</b> </li>
+    </div>
+</div>
+<div id="contacto">
+    <h3>Contactanos</h3>
+        <li>   
+            <a href="mailto:buenosairesviews@gmail.com"> <i class="fa-regular fa-envelope"></i> Gmail</a> 
+        </li>
+        <li>
+            <a href="https://www.instagram.com/chemoreno.16/?hl=es" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
+         </li>
+    </li>
+</div>
+    <script src="scripts/script.js"></script>
+    </body>
+</html>
